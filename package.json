@@ -1,0 +1,26 @@
+{
+  "name": "chat-room",
+  "version": "1.0.0",
+  "description": "A simple chat room created using Socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://limatgans@github.com/limatgans/chat-room.git"
+  },
+  "keywords": [
+    "limatgans",
+    "socketio",
+    "nodejs",
+    "js",
+    "chatroom"
+  ],
+  "author": "limatgans",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/limatgans/chat-room/issues"
+  },
+  "homepage": "https://github.com/limatgans/chat-room#readme"
+}
